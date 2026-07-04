@@ -31,6 +31,6 @@ sales data using MySQL and Power BI.
 - Customer rating analysis
 
 ## 📂 Files in This Repository
-- `Blinkit_Sales_Dashboard.pdf` — Final Dashboard
-- `dashboard_screenshot.png` — Dashboard Preview
+- 'blinkit project(dashbord).pdf' — Final Dashboard
+- `Screenshot 2026-07-05 011325.png` — Dashboard Preview
 - SQL query files — All analysis queries
