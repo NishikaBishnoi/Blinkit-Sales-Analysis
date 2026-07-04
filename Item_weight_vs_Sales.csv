@@ -1,0 +1,4 @@
+weight_range,avg_sales,total_items
+heavy_above_15kg,142.4413,2613
+light_below(5kg),142.3913,46
+medium_(5-15kh),140.3383,5864

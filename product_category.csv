@@ -1,0 +1,17 @@
+Product_Category,Total_Items,Total_Sales,Avg_Sales
+Fruits_and_Vegetables,1232,178124,144.58
+Snack_Foods,1200,175442,146.20
+Household,910,135985,149.43
+Frozen_Foods,856,118566,138.51
+Dairy,682,101276,148.50
+Canned,649,90706,139.76
+Baking_Goods,648,81886,126.37
+Health_and_Hygiene,520,68012,130.79
+Meat,425,59447,139.88
+Soft_Drinks,445,58507,131.48
+Breads,251,35389,140.99
+Hard_Drinks,214,29334,137.07
+Others,169,22456,132.88
+"Starchy Foods",148,21886,147.88
+Breakfast,110,15599,141.81
+Seafood,64,9078,141.84

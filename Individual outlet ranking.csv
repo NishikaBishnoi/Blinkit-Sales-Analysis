@@ -1,0 +1,17 @@
+outlet_identifier,outlet_type,outlet_size,outlet_location_type,total_sales,avg_rating
+OUT035,Supermarket_Type1,Small,"Tier 2",133105,4
+OUT046,Supermarket_Type1,Small,"Tier 1",132117,4
+OUT013,Supermarket_Type1,High,"Tier 3",131818,4
+OUT018,Supermarket_Type2,Medium,"Tier 3",131478,4
+OUT027,Supermarket_Type3,Medium,"Tier 3",130729,4
+OUT049,Supermarket_Type1,Medium,"Tier 1",130472,4
+OUT019,Grocery_Store,Small,"Tier 1",73806,4
+OUT017,Supermarket_Type1,Small,"Tier 2",50121,4
+OUT045,Supermarket_Type1,Small,"Tier 2",47262,4
+OUT017,Supermarket_Type1,High,"Tier 2",45058,4
+OUT045,Supermarket_Type1,Medium,"Tier 2",44121,4
+OUT045,Supermarket_Type1,High,"Tier 2",39556,4
+OUT010,Grocery_Store,Medium,"Tier 3",37174,4
+OUT017,Supermarket_Type1,Medium,"Tier 2",33926,4
+OUT010,Grocery_Store,High,"Tier 3",32567,4
+OUT010,Grocery_Store,Small,"Tier 3",8383,4
